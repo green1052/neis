@@ -1,6 +1,6 @@
 # neis
 
-[deno](https://deno.land/) 용 neis api
+[Deno](https://deno.land/) 용 neis api
 
 ## 설치
 
@@ -10,7 +10,7 @@ import {Neis} from "https://deno.land/x/neis/mod.ts";
 
 ## 사용법
 
-~~혀경영이 다닌~~ 초등학교 급식 구하기
+초등학교 급식 구하기
 
 ```ts
 import neis from "https://deno.land/x/neis/mod.ts";
